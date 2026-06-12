@@ -1,0 +1,6 @@
+{
+  "name": "Etna Med Spa",
+  "description": "Premium wellness center landing page in Lekki Phase 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
